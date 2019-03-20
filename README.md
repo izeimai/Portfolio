@@ -2,7 +2,8 @@
 
 https://izeimai.github.io/Portfolio/
 
-This is my work portfolio to display the web applications I made. I switched over to a free Bootstrap template that keeps all components on one page rather than three separate pages (About, Portfolio and Contacts) generated in the first week of class. 
+This is my work portfolio to display the web applications I made. I switched over to a free Bootstrap template that keeps all components on one page rather than three separate pages (About, Portfolio and Contacts) generated during the first week of coding bootcamp. 
+The grayscale, minimalistic aesthetic appeals to me because I believe that simple frameworks highlight the content best.
 
 ## [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
